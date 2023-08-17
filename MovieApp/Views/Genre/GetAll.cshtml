@@ -1,0 +1,35 @@
+﻿@using PagedList.Mvc;
+@using PagedList;
+@using MovieApp.Areas.Identity.Data;
+@model IEnumerable<Genre>
+
+<table id="table" class="table">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Action</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var genre in Model)
+        {
+            <tr>
+                <td>@genre.Name</td>
+                <td>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a class="btn btn-primary" asp-controller="Genre" asp-action="Edit" asp-route-id="@genre.Id">Edit</a>
+                        <a class="btn btn-danger" asp-controller="Genre" asp-action="Delete" asp-route-id="@genre.Id">Delete</a>
+
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section Scripts{
+    <script>
+        $("#table").DataTable();
+    </script>
+}

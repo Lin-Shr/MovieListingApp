@@ -1,0 +1,74 @@
+﻿@using MovieApp.Areas.Identity.Data;
+
+@model Movie
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+<h1>Details</h1>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+        <dd>
+            <img src="@Model.Image" style="width: 220px; height: 230px;" />
+        </dd>
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Director)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Director)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ReleasedDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ReleasedDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Genres)
+        </dt>
+        <dd class="col-sm-10">
+            @foreach (var genre in Model.Genres)
+            {
+                <div class="d-inline-block"> @genre.Name,</div>
+            }
+        </dd>
+
+
+
+
+
+
+
+
+</div>
+
+@{
+    var review = new Review();
+    review.MovieId = @Model.Id;
+
+    var reviewlist = Model.Reviews;
+
+}
+<partial name="../Review/_Comment" model="@review" />
+<partial name="../Review/_GetComment" model="@reviewlist" />
+
+
+
+

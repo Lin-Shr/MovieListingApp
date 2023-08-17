@@ -1,0 +1,57 @@
+﻿@using MovieApp.Areas.Identity.Data;
+@using MovieApp.Interfaces;
+@model Review
+
+@*<form asp-controller="Review" asp-action="AddRating">
+    <input type="hidden" name="MovieId" value="@Model.Id" />
+    <div id="rate" class="rating">
+        <input type="radio" id="star5" name="rating" value="5" />
+        <label for="star5" title="5 stars"></label>
+        <input type="radio" id="star4" name="rating" value="4" />
+        <label for="star4" title="4 stars"></label>
+        <input type="radio" id="star3" name="rating" value="3" />
+        <label for="star3" title="3 stars"></label>
+        <input type="radio" id="star2" name="rating" value="2" />
+        <label for="star2" title="2 stars"></label>
+        <input type="radio" id="star1" name="rating" value="1" />
+        <label for="star1" title="1 star"></label>
+    </div>
+
+    <a class="btn btn-primary" asp-controller="Review" asp-action="AddRating" asp-route-id="@Model.Id">Submit</a>
+</form>*@
+<form methode="post" asp-controller="Review" asp-action="Create">
+    <div id="rate" class="rating">
+        <input type="radio" id="star5" name="rating" value="5" />
+        <label for="star5" title="5 stars"></label>
+        <input type="radio" id="star4" name="rating" value="4" />
+        <label for="star4" title="4 stars"></label>
+        <input type="radio" id="star3" name="rating" value="3" />
+        <label for="star3" title="3 stars"></label>
+        <input type="radio" id="star2" name="rating" value="2" />
+        <label for="star2" title="2 stars"></label>
+        <input type="radio" id="star1" name="rating" value="1" />
+        <label for="star1" title="1 star"></label>
+    </div>
+    <h4 class="mb-3">Add Comment</h4>
+    <input asp-for="@Model.MovieId" type="hidden"/>
+
+    <div class="form-group">
+        <label for="Comment">Leave your Comments</label>
+        <textarea class="form-control" rows="5" name="Comment" placeholder="Write your Comments here!" asp-for="@Model.Comment"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Comment</button>
+</form>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        console.log("adsfasdf.......");
+        var ratingInputs = document.querySelectorAll('.rating input');
+
+        for (var i = 0; i < ratingInputs.length; i++) {
+            ratingInputs[i].addEventListener("change", function () {
+                console.log("input is chaign ......", this.value);
+                var rating = this.value;
+                document.getElementById("rate").value = rating;
+            });
+        }
+    });
+</script>

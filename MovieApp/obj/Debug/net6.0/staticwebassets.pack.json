@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MovieApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MovieApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\.png",
+      "PackagePath": "staticwebassets\\images\\.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\0299e384-99b2-4f06-8ffc-37c63eb195c1.png",
+      "PackagePath": "staticwebassets\\images\\0299e384-99b2-4f06-8ffc-37c63eb195c1.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\04b7d10c-9979-4153-8ede-d3e67b353476.jpg",
+      "PackagePath": "staticwebassets\\images\\04b7d10c-9979-4153-8ede-d3e67b353476.jpg"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\08cd1e4a-463e-42c5-8f36-12dc7680013e.png",
+      "PackagePath": "staticwebassets\\images\\08cd1e4a-463e-42c5-8f36-12dc7680013e.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\098de2c6-cb44-4aca-bd42-747487217344.jpg",
+      "PackagePath": "staticwebassets\\images\\098de2c6-cb44-4aca-bd42-747487217344.jpg"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\105601a0-8397-452c-afbd-94952a3b0d0a.png",
+      "PackagePath": "staticwebassets\\images\\105601a0-8397-452c-afbd-94952a3b0d0a.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\1167cfde-e580-4690-8afc-ec49bb1a3793.png",
+      "PackagePath": "staticwebassets\\images\\1167cfde-e580-4690-8afc-ec49bb1a3793.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\17131ba2-6b96-424d-865c-5c84c457fc27.jpg",
+      "PackagePath": "staticwebassets\\images\\17131ba2-6b96-424d-865c-5c84c457fc27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\191968d2-2f57-4c62-8281-0769104bb6e8.png",
+      "PackagePath": "staticwebassets\\images\\191968d2-2f57-4c62-8281-0769104bb6e8.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\24b76fc9-b37d-4cd5-8065-9eeb04493596.jpg",
+      "PackagePath": "staticwebassets\\images\\24b76fc9-b37d-4cd5-8065-9eeb04493596.jpg"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\2bc353ea-1715-42c2-b8c7-95886b7f4fc0.jpg",
+      "PackagePath": "staticwebassets\\images\\2bc353ea-1715-42c2-b8c7-95886b7f4fc0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\2f6f3f9e-8803-489b-b85a-bb09e16d4536.png",
+      "PackagePath": "staticwebassets\\images\\2f6f3f9e-8803-489b-b85a-bb09e16d4536.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\3101cefa-93db-45ef-a6af-101003fa6950.png",
+      "PackagePath": "staticwebassets\\images\\3101cefa-93db-45ef-a6af-101003fa6950.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\377102f9-b4af-454c-81af-14e2c6fda7c1.png",
+      "PackagePath": "staticwebassets\\images\\377102f9-b4af-454c-81af-14e2c6fda7c1.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\45d567c3-5656-4c2d-95ad-61b9287de8ba.jpg",
+      "PackagePath": "staticwebassets\\images\\45d567c3-5656-4c2d-95ad-61b9287de8ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\4a0da9de-67d3-4796-9eff-8a8b0a741566.png",
+      "PackagePath": "staticwebassets\\images\\4a0da9de-67d3-4796-9eff-8a8b0a741566.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\5108fe33-682a-4847-b715-6ac242cecb56.jpg",
+      "PackagePath": "staticwebassets\\images\\5108fe33-682a-4847-b715-6ac242cecb56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\5a5ebb10-2eff-4285-a37d-96347c3e271a.png",
+      "PackagePath": "staticwebassets\\images\\5a5ebb10-2eff-4285-a37d-96347c3e271a.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\5eec2ef0-49e9-408e-849c-2c2c0abbf1ba.png",
+      "PackagePath": "staticwebassets\\images\\5eec2ef0-49e9-408e-849c-2c2c0abbf1ba.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\62fb79ab-41cf-435c-9d1b-b9c111b314dc.png",
+      "PackagePath": "staticwebassets\\images\\62fb79ab-41cf-435c-9d1b-b9c111b314dc.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\806ee5cc-d752-4bab-9eee-c236c93a3cfd.png",
+      "PackagePath": "staticwebassets\\images\\806ee5cc-d752-4bab-9eee-c236c93a3cfd.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\8096c4fb-d0e2-46e5-b8a0-93e080d69dd4.png",
+      "PackagePath": "staticwebassets\\images\\8096c4fb-d0e2-46e5-b8a0-93e080d69dd4.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\839b2bab-84a1-4fe6-a51f-36d0c6ec62cb.png",
+      "PackagePath": "staticwebassets\\images\\839b2bab-84a1-4fe6-a51f-36d0c6ec62cb.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\83e76da0-dae4-463f-9a5b-c72a7b2bd719.png",
+      "PackagePath": "staticwebassets\\images\\83e76da0-dae4-463f-9a5b-c72a7b2bd719.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\958bbb40-8ea0-44f1-a0e5-6268ed70b723.png",
+      "PackagePath": "staticwebassets\\images\\958bbb40-8ea0-44f1-a0e5-6268ed70b723.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\9fce9d82-e700-4745-9f5d-20b5ce853a09.png",
+      "PackagePath": "staticwebassets\\images\\9fce9d82-e700-4745-9f5d-20b5ce853a09.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\b08f100d-52eb-4fdd-a3bd-89a1d2d8dccb.png",
+      "PackagePath": "staticwebassets\\images\\b08f100d-52eb-4fdd-a3bd-89a1d2d8dccb.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\b93e1680-b129-411e-9fe7-24cc86f56781.png",
+      "PackagePath": "staticwebassets\\images\\b93e1680-b129-411e-9fe7-24cc86f56781.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\bb312f67-4690-40d2-a9ed-5efbf1ae323e.png",
+      "PackagePath": "staticwebassets\\images\\bb312f67-4690-40d2-a9ed-5efbf1ae323e.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\c1ad592a-5db4-4f31-8a83-8fe3d337b938.jpg",
+      "PackagePath": "staticwebassets\\images\\c1ad592a-5db4-4f31-8a83-8fe3d337b938.jpg"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\c3957564-78ff-4b68-8586-5e817081eb88.png",
+      "PackagePath": "staticwebassets\\images\\c3957564-78ff-4b68-8586-5e817081eb88.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\cd6b6033-a810-4a86-ac58-cd5096e567e2.png",
+      "PackagePath": "staticwebassets\\images\\cd6b6033-a810-4a86-ac58-cd5096e567e2.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\d62d5ec2-f0e2-472b-a4d1-6b7a4d6b104e.jpg",
+      "PackagePath": "staticwebassets\\images\\d62d5ec2-f0e2-472b-a4d1-6b7a4d6b104e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\d984ed4b-fbb2-4b0d-b355-76e5ade89b17.png",
+      "PackagePath": "staticwebassets\\images\\d984ed4b-fbb2-4b0d-b355-76e5ade89b17.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\da8bee76-2ceb-48a4-9b3d-7f87c33982d0.png",
+      "PackagePath": "staticwebassets\\images\\da8bee76-2ceb-48a4-9b3d-7f87c33982d0.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\images\\fc3b9e0c-8585-41ea-b8d3-d9cd97adaa7e.png",
+      "PackagePath": "staticwebassets\\images\\fc3b9e0c-8585-41ea-b8d3-d9cd97adaa7e.png"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\linsh\\Desktop\\MovieMVC\\MovieMVC\\MovieApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MovieApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MovieApp.props",
+      "PackagePath": "build\\MovieApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieApp.props",
+      "PackagePath": "buildMultiTargeting\\MovieApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MovieApp.props",
+      "PackagePath": "buildTransitive\\MovieApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

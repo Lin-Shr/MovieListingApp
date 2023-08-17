@@ -1,0 +1,18 @@
+﻿@using PagedList.Mvc;
+@using PagedList;
+@using MovieApp.Areas.Identity.Data;
+@model List<Review>
+<div class="card-body">
+    @foreach (var comment in Model)
+    {
+        <p>@comment.Comment</p>
+        <small class="text-muted">Posted by Anonymous</small>
+        <hr>
+        
+    }
+
+</div>
+    
+            
+            
+ 

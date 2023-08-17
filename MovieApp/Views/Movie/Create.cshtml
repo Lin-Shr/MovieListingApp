@@ -1,0 +1,53 @@
+﻿@using MovieApp.Areas.Identity.Data;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model MovieGenreVM
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <div class="container pb-5">
+    <H1 class="mb-3">ADD NEW MOVIES</H1>
+
+    <form class="row g-3" method="post" asp-controller="Movie" asp-action="Create" enctype="multipart/form-data">
+       
+        <div class="col-md-6">
+            <label for="Title" class="form-label">Titlel</label>
+            <input type="text" class="form-control" id="inputEmail4" asp-for="@Model.Movie.Title">
+        </div>
+        <div class="col-md-6">
+            <label for="inputPassword4" class="form-label">Description</label>
+            <input type="text" class="form-control" id="inputPassword4" asp-for="@Model.Movie.Description">
+        </div>
+        <div class="col-12">
+            <label for="inputAddress" class="form-label">Released Date</label>
+            <input type="datetime-local" class="form-control" id="inputAddress" asp-for="@Model.Movie.ReleasedDate">
+        </div>
+        <div class="col-12">
+            <label for="inputAddress2" class="form-label">Director</label>
+            <input type="text" class="form-control" id="inputAddress2" asp-for="@Model.Movie.Director">
+        </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Genres"></label>
+                </div>
+                <div class="col-8 mb-4">
+                    <select asp-for="Genre" asp-items="@Model.Genres" class="form-control multiple">
+                        <option disabled selected style="background-color:#f3edfe; color:#7d43a3;">Select Genre</option>
+
+                    </select>
+                </div>
+            </div>
+        <div class="form-group">
+
+  </div>
+        <div class="col-md-6">
+            <label for="Image" class="form-label">Image</label>
+            <input type="file" class="form-control-file" id="inputEmail4" asp-for="@Model.Movie.Image">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    </div>
+    }

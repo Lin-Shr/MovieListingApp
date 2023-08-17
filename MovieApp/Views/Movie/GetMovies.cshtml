@@ -1,0 +1,66 @@
+﻿@using PagedList.Mvc;
+@using PagedList;
+@using MovieApp.Areas.Identity.Data;
+@model IEnumerable<Movie>
+<h1>Movies</h1>
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+<table id="table" class="table">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">Release date</th>
+            <th scope="col">Director</th>
+            <th scope="col">Action</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var movie in Model)
+        {
+            <tr>
+                <td>@movie.Title</td>
+                <td>@movie.Description</td>
+                <td>@movie.ReleasedDate</td>
+                <td>@movie.Director</td>
+                <td>
+                        @if (User.IsInRole("Admin"))
+                        {
+                        <a class="btn btn-primary" asp-controller="Movie" asp-action="Edit" asp-route-id="@movie.Id">Edit</a>
+                        <a class="btn btn-danger" asp-controller="Movie" asp-action="Delete" asp-route-id="@movie.Id">Delete</a>
+
+                        }
+                    <a class="btn btn-secondary" asp-controller="Movie" asp-action="Details" asp-route-id="@movie.Id">Details</a>
+
+                </td>
+                   
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+
+
+@section Scripts{
+    <script>
+        $("#table").DataTable();
+    </script>
+}
+
+@*<div class="text-center">
+    @Html.PagedListPager(Model, page => Url.Action("GetMovie", new { page }), new PagedListRenderOptions { Display = PagedListDisplayMode.IfNeeded })
+</div>*@
+
+@*For class
+    <table class="table">
+@section Scripts{
+    <script>
+        $(".table").DataTable();
+    </script>
+}*@
